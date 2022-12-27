@@ -2,6 +2,7 @@
 - 👀 I’m interested in developing a product that solves a user problem
 - 🌱 I’m currently learning Web Development and Data Structure Algorithm
 - 💞️ I’m looking to collaborate on projects
+<a href="https://www.linkedin.com/in/amitrai50/" class="button">Linkedin</a>
 - 📫 How to reach me https://www.linkedin.com/in/amitrai50/
 
 <!---
